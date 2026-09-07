@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 140" role="img" aria-labelledby="title">
+  <title id="title">Skyfall Space</title>
+  <ellipse cx="100" cy="79" rx="78" ry="28" transform="rotate(-9 100 79)" fill="none" stroke="#2ab88a" stroke-width="11"/>
+  <path d="M100 18 145 42 100 67 55 42Z" fill="#063a42"/>
+  <path d="M55 47 96 70v46L55 93Z" fill="#07505a"/>
+  <path d="m145 47-41 23v46l41-23Z" fill="#032f37"/>
+  <path d="M22 91c24 11 58 13 94 5 30-7 52-19 63-31" fill="none" stroke="#30be8e" stroke-width="11" stroke-linecap="round"/>
+</svg>
